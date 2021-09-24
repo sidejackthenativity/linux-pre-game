@@ -1,3 +1,3 @@
 id
 whoami
-which nc bash curl wget
+which nc bash curl wget sh
